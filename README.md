@@ -1,2 +1,2 @@
 # jsblockchain2
-### Sample homegrown distributed blockchain using JavaScript. NodeJS and AngularJS
+### High Level implementation of blockchain concepts using JavaScript. NodeJS and AngularJS
